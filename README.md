@@ -4,7 +4,7 @@ VB-DeepONet: A Bayesian operator learning framework for uncertainty quantificati
 
 The GitHub repository contains sample codes for the case studies carried out in the research paper titled 'VB-DeepONet: A Bayesian operator learning framework for uncertainty quantification'. Please go through the research paper to understand the implemented algorithm. Note: Results may vary slightly for different iterations of programs as random initializations of neural network is involved.
 
-Dataset Link: 
+Dataset Link: https://csciitd-my.sharepoint.com/:f:/g/personal/amz218308_iitd_ac_in/Ep2kkIW9rXFMs5UAvDFUWdwBC-iL1QwWmKxlVmfDJtEI1g?e=lg0dxa
 
 ** If there is some ambiguity in the datasets/codes please comment in the repository.
 
